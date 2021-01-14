@@ -1,6 +1,6 @@
 # Webdev project with Gatsby and Strapi
 
-https://hotel-overlook.netlify.app
+https://hotel-overlook.netlify.app/
 
 ### Getting started
 
